@@ -13,5 +13,6 @@ int SumN(int n){
 
 int main(){
     cout<<SumN (4) <<endl;
+       cout<<SumN (10) <<endl;
 return 0;
 }
