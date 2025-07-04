@@ -1,6 +1,7 @@
 {
     "C_Cpp.default.compilerPath": "e:\\DSA 2025\\code.cpp",
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }
